@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1395485899 source:e:\charles\documents\workspacecplus\projectadd\deplacementpion.cpp
+	<iostream>
+	"minMax.h"
+	"verifVictoire.h"
+
+1395417652 e:\charles\documents\workspacecplus\projectadd\minmax.h
+	<iostream>
+
+1395417652 source:e:\charles\documents\workspacecplus\projectadd\generationplateau.cpp
+	<iostream>
+
+1395417652 source:e:\charles\documents\workspacecplus\projectadd\lecturefichier.cpp
+	<iostream>
+	<fstream>
+
+1395485701 source:e:\charles\documents\workspacecplus\projectadd\main.cpp
+	<iostream>
+	"generationPlateau.h"
+	"deplacementPion.h"
+	"verifVictoire.h"
+	"lectureFichier.h"
+	"minMax.h"
+	"verifVictoire.h"
+
+1395417652 e:\charles\documents\workspacecplus\projectadd\generationplateau.h
+
+1395417652 e:\charles\documents\workspacecplus\projectadd\deplacementpion.h
+
+1395484477 e:\charles\documents\workspacecplus\projectadd\verifvictoire.h
+
+1395417652 e:\charles\documents\workspacecplus\projectadd\lecturefichier.h
+
+1395417652 source:e:\charles\documents\workspacecplus\projectadd\minmax.cpp
+	"minMax.h"
+	"verifVictoire.h"
+
